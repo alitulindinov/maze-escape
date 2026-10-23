@@ -57,7 +57,7 @@ The zones are numbered in topological order, so every edge between different zon
 
 ## AI use
 
-I used ChatGPT to understand the assignment requirements, explain algorithms, help implement and debug Java code, and interpret test and benchmark results. I checked the implementation by running `java tools/Check.java`, `java -cp out Main`, and `java -cp out Bench`.
+I used ChatGPT to understand the assignment requirements, explain algorithms, help implement and debug Java code. I checked the implementation by running `java tools/Check.java`, `java -cp out Main`, and `java -cp out Bench`.
 
 ## Timing (Mission 7)
 
